@@ -39,3 +39,13 @@ datasets/
 *.h5
 *.weights
 checkpoints/
+# 系統回收站
+.Trash-*
+.trash-*
+*Trash*
+
+# 虛擬環境和緩存
+.virtual_documents/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
