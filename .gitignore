@@ -19,3 +19,23 @@ datasets/
 *.h5
 *.weights
 checkpoints/
+# 系統文件
+.Trash-*
+.trash-*
+.DS_Store
+Thumbs.db
+
+# 數據文件
+*.tar.gz
+*.zip
+*.rar
+*.7z
+data/
+datasets/
+
+# 模型文件
+*.pth
+*.pt
+*.h5
+*.weights
+checkpoints/
