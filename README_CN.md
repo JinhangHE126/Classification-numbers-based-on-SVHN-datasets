@@ -1,5 +1,8 @@
 # SVHN 数字分类 —— 深度学习大作业
 
+[![中文文档](https://img.shields.io/badge/📖-中文文档-blue?style=flat-square)](./README_CN.md)
+[![English](https://img.shields.io/badge/📖-English-blue?style=flat-square)](./README.md)
+
 基于 PyTorch 实现的街景门牌号（SVHN）数字分类项目。本项目对比了 MLP、改进 MLP、CNN 三种架构，并围绕数据增强、学习率调度、架构变体、正则化策略展开了系统性的四阶段消融实验。
 
 ## 数据集

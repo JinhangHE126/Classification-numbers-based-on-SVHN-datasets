@@ -1,5 +1,8 @@
 # SVHN Digit Classification — Deep Learning Course Project
 
+[![中文文档](https://img.shields.io/badge/📖-中文文档-blue?style=flat-square)](./README_CN.md)
+[![English](https://img.shields.io/badge/📖-English-blue?style=flat-square)](./README.md)
+
 Street View House Numbers (SVHN) digit classification using PyTorch. This project compares three architectures (MLP, Improved MLP, CNN) and conducts systematic ablation studies on data augmentation, learning rate schedulers, architecture variants, and regularization strategies.
 
 ## Dataset
